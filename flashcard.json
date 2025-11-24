@@ -1,6 +1,10 @@
 {
-    "ID1": [
-        "Tama",
-        "Bola"
-    ]
+    "TSUKI": "Bulan",
+    "MICHI": "Jalan",
+    "KISETSU": "Musim",
+    "HITO": "Orang",
+    "MORI": "Hutan",
+    "KI": "Pohon",
+    "HON": "Buku",
+    "LELE": "ikan"
 }
